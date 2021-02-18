@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; Online store</title>
+	<atom:link href="https://mkprajapat-1702.github.io/ShopAbc/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mkprajapat-1702.github.io/ShopAbc</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 07 Feb 2021 05:13:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>Jumber T-shirt</title>
+		<link>https://mkprajapat-1702.github.io/ShopAbc/product/jumber-t-shirt/</link>
+					<comments>https://mkprajapat-1702.github.io/ShopAbc/product/jumber-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 05:13:25 +0000</pubDate>
+				<guid isPermaLink="false">https://mkprajapat-1702.github.io/ShopAbc/?post_type=product&#038;p=87</guid>
+
+					<description><![CDATA[A T&#8211;shirt, or tee shirt, is a style of fabric shirt named after the T shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar.]]></description>
+										<content:encoded><![CDATA[<p>A <b>T</b>&#8211;<b>shirt</b>, or <b>tee shirt</b>, is a style of fabric <b>shirt</b> named after the <b>T</b> shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar.</p>
+<div id="gtx-trans" style="position: absolute; left: 6px; top: 45.2px;">
+<div class="gtx-trans-icon"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mkprajapat-1702.github.io/ShopAbc/product/jumber-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sport Shoes</title>
+		<link>https://mkprajapat-1702.github.io/ShopAbc/product/sport-shoes/</link>
+					<comments>https://mkprajapat-1702.github.io/ShopAbc/product/sport-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 05:02:39 +0000</pubDate>
+				<guid isPermaLink="false">https://mkprajapat-1702.github.io/ShopAbc/?post_type=product&#038;p=89</guid>
+
+					<description><![CDATA[Sneakers (also called trainers, athletic shoes, tennis shoes, gym shoes, kicks, sport shoes, flats, running shoes, or runners) are shoes primarily designed for sports or other forms of physical exercise but that are now also widely used for everyday casual wear.]]></description>
+										<content:encoded><![CDATA[<p>Sneakers (also called trainers, <b>athletic shoes</b>, tennis <b>shoes</b>, gym <b>shoes</b>, kicks, <b>sport shoes</b>, flats, <b>running shoes</b>, or runners) are <b>shoes</b> primarily designed for <b>sports</b> or other forms of physical exercise but that are now also widely used for everyday casual wear.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mkprajapat-1702.github.io/ShopAbc/product/sport-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
